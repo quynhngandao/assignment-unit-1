@@ -1,1 +1,1 @@
-console.log("hello prime!");
+console.log("Hello! This is my assignment 1 submission");
