@@ -21,6 +21,7 @@ touch
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 The latest version of github installed on the system
+git version 2.37.3
 
 # 8 - Why would you run the command 'git status'?
 To check progress: "dislay state of working directory and staging area"
