@@ -1,4 +1,4 @@
-body{
+body {
     background-color:rgb(221, 242, 255); /* Give your page a fun background color */
     margin:0;
     display: block;
@@ -9,7 +9,7 @@ header {
     background-color: black;
     padding: 5px 20px 5px 0;
 }
-h1{
+h1 {
     color:#ffff; /* Make the header and footer a different color from the background */
     text-align: center; /* Align the h1 containing your name in the center of the header*/
   font-size: 30px;
@@ -25,24 +25,24 @@ footer {
 article {
     margin: 0 0 60px 0;
 }
-h3{
+h3 {
     font-size: 25px;
     margin: 0 0 10px 10px;
 }
 
-p{
+p {
     color: #ffff; /* Make your p tag a different color and italic */
     font-style: italic;
     margin: 10px 10px 50px 10px;
 }
 
-img{
+img {
     border: 5px solid rgb(255, 238, 89); /* Put a border around your image */
     margin: 20px 20px 30px 20px;
  
 }
 
-li{
+ul {
     list-style-type: none;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Change the font-family of your list */
     margin: 0 0 0 10px;

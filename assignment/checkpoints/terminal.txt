@@ -30,4 +30,4 @@ To check progress: "dislay state of working directory and staging area"
 To add progress: "add change in working directory to the staging area"
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push
+git push origin main //FIXED correction 
